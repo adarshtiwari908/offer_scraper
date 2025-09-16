@@ -89,11 +89,3 @@ cardOfferScraper/
 ├── sbi_offers.json         # Output data
 └── debug_page.html         # Debug HTML (generated)
 ```
-
-This project is for educational purposes. Please ensure compliance with applicable laws and website terms of service.
-
----
-
-**Last Updated**: September 2025
-**Node.js Version**: 14+
-**Status**: Active Development
